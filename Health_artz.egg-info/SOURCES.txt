@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+Health_artz.egg-info/PKG-INFO
+Health_artz.egg-info/SOURCES.txt
+Health_artz.egg-info/dependency_links.txt
+Health_artz.egg-info/top_level.txt
